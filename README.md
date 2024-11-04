@@ -1,6 +1,6 @@
 # Gangzee - Social Media Website
 
-![Gangzee Logo](logo.png)
+![Gangzee Logo](gangzee.png)
 
 Gangzee is a social media platform designed to connect people and foster communication. Developed with PHP, HTML, CSS, Bootstrap, and SQL, this project demonstrates a fully functional social media website interface and backend.
 
